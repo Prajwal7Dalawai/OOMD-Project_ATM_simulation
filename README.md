@@ -33,7 +33,7 @@ OOMD project/
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prajwal7Dalawai/OOMD-Project_ATM_simulation.git
    cd OOMD project
    ```
 
